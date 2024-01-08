@@ -13,7 +13,8 @@
 | n | Measurement errors |
 | z | Observations |
 
+![Elements of the dynamic system](https://i.imgur.com/0DrXTYH.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NDUwMDA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NDcxMDE3ODMsNzMwOTk4MTE2XX0=
 -->
