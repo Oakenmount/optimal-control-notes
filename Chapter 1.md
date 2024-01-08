@@ -17,7 +17,8 @@
 
 *Open-loop control* - No path from **x** to **u** (Process is subjected to control inputs (**u**) without regard for state (**x**). Must be adequately "controllable".
 *Closed-loop control* - Includes feedback information (i.e. through dynamic states **x**). Must be adequately "observable".
-*Controllable* - System is controllable at $t_0$ if there is a *control history*, **u**$(t)$, in time interval $[t_0, t_f]$
+*Controllable* - If there is an independent natural path between every component in **x** and at least one element of **u**, the the process is likely completely controllable.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTk2NjY4OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA3MDAwODExOSwtODc1OTY2Njg5LDczMD
+k5ODExNl19
 -->
