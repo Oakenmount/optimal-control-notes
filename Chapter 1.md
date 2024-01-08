@@ -1,12 +1,19 @@
 
 
 
-# Symbols
+## Symbols
+
 |Symbol|Family of Variables |
 |--|--|
-| p | parameters |
-| u | con
+| p | Parameters |
+| u | Controllable inputs |
+| w | Uncontrollable inputs (disturbances) |
+| x | Dynamic states |
+| y | Process outputs |
+| n | Measurement errors |
+| z | Observations |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODM1MjU2Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAyMTM5ODEyNSw3MzA5OTgxMTZdfQ==
 -->
