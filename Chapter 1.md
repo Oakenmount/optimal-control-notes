@@ -1,7 +1,7 @@
 
 
 
-## Symbols
+## Modeling dynamic systems
 
 |Symbol|Family of Variables |
 |--|--|
@@ -14,7 +14,6 @@
 | z | Observations |
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NzMwNTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjg4NDUwMDA0LDczMDk5ODExNl19
 -->
