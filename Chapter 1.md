@@ -21,8 +21,9 @@
 *Observable* - If there is an independent natural path between every component in **x** and at least one element of **y**, the the process is likely completely observable.
 Dynamic system is often only partially observable and controllable, and may be sufficient for optimal control. 
 Dynamic system may be divided into subprocesses.
-*Stable* - If an uncontrollable subprocess in an otherwise controllable process does not cause the process to diverge, then it is *stable*.
+*Stable* - If an uncontrollable subprocess in an otherwise controllable process does not cause the process to diverge, then it is *stable*. (Bounded inputs 
+*Detectable* - If an unobserved subprocess is stable, the otherwise observable process is *detectable*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTYxNzEzMywxODIzNDQ2ODQxLC04Nz
-U5NjY2ODksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMTQ2NDYyNTAsMTgyMzQ0Njg0MSwtOD
+c1OTY2Njg5LDczMDk5ODExNl19
 -->
