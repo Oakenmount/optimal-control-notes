@@ -15,6 +15,7 @@
 
 ![Elements of the dynamic system](https://i.imgur.com/0DrXTYH.png)
 
+Open-loop control - No path from x to u (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcxMDE3ODMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjUyMDI1MjM0LDczMDk5ODExNl19
 -->
