@@ -15,7 +15,8 @@
 
 ![Elements of the dynamic system](https://i.imgur.com/0DrXTYH.png)
 
-Open-loop control - No path from x to u (
+*Open-loop control* - No path from **x** to **u** (Process is subjected to control inputs (**u**) without regard for state (**x**)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMDI1MjM0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTk4NDE1MTc0OSw3MzA5OTgxMTZdfQ==
 -->
