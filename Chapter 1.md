@@ -15,8 +15,8 @@
 
 ![Elements of the dynamic system](https://i.imgur.com/0DrXTYH.png)
 
-*Open-loop control* - No path from **x** to **u** (Process is subjected to control inputs (**u**) without regard for state (**x**)
-*Closed-loop control* - Includes feedback information (e.
+*Open-loop control* - No path from **x** to **u** (Process is subjected to control inputs (**u**) without regard for state (**x**). Must be adequately "controllable" for 
+*Closed-loop control* - Includes feedback information (i.e. through dynamic states **x**).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjYyMTQxNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjQ4ODk4MDAyLDczMDk5ODExNl19
 -->
