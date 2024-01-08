@@ -19,8 +19,10 @@
 *Closed-loop control* - Includes feedback information (i.e. through dynamic states **x**). Must be adequately "observable".
 *Controllable* - If there is an independent natural path between every component in **x** and at least one element of **u**, the the process is likely completely controllable.
 *Observable* - If there is an independent natural path between every component in **x** and at least one element of **y**, the the process is likely completely observable.
-Dynamic system is often only partially observable and controllable, and may be sufficient for optimal control.
+Dynamic system is often only partially observable and controllable, and may be sufficient for optimal control. 
+Dynamic system may be divided into subprocesses.
+if uncontrolled p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzQ0Njg0MSwtODc1OTY2Njg5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTkzODgzMTA5OSwxODIzNDQ2ODQxLC04Nz
+U5NjY2ODksNzMwOTk4MTE2XX0=
 -->
