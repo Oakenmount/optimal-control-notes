@@ -32,9 +32,9 @@ Dynamic system may be divided into subprocesses.
 
 *Superposition characteristic* - The net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually. E.g, if input _A_ produces response _X_ and input _B_ produces response _Y_ then input (_A_ + _B_) produces response (_X_ + _Y_)
 
-
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTUxNzgyNCwtMzExMDg0MTI0LDc2Mj
+eyJoaXN0b3J5IjpbMTI1MDAzNTg0MCwtMzExMDg0MTI0LDc2Mj
 UwNzQ0NiwtNDQzMDA3MDQwLDE4MjM0NDY4NDEsLTg3NTk2NjY4
 OSw3MzA5OTgxMTZdfQ==
 -->
