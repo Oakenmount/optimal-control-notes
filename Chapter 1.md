@@ -41,8 +41,9 @@ img = io.imread("gfp_02.tif")
 |:--------:| -------------:|
 | centered | right-aligned |
 | a | b |
+| c | d |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjA5MTg1LC0zMTEwODQxMjQsLTEzMj
-Y2MjgwODgsLTMxMTA4NDEyNCw3NjI1MDc0NDYsLTQ0MzAwNzA0
-MCwxODIzNDQ2ODQxLC04NzU5NjY2ODksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA0NjAzMDYwMiwtMzExMDg0MTI0LC0xMz
+I2NjI4MDg4LC0zMTEwODQxMjQsNzYyNTA3NDQ2LC00NDMwMDcw
+NDAsMTgyMzQ0Njg0MSwtODc1OTY2Njg5LDczMDk5ODExNl19
 -->
