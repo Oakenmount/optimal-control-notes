@@ -32,18 +32,9 @@ Dynamic system may be divided into subprocesses.
 
 *Superposition characteristic* - The net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually. E.g, if input _A_ produces response _X_ and input _B_ produces response _Y_ then input (_A_ + _B_) produces response (_X_ + _Y_)
 
-```python
-# This is a comment
-img = io.imread("gfp_02.tif")
-```
-
-| Column 1 | Column 2      |
-|:--------:| -------------:|
-| centered | right-aligned |
-| a | b |
-| c | d |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjAzMDYwMiwtMzExMDg0MTI0LC0xMz
-I2NjI4MDg4LC0zMTEwODQxMjQsNzYyNTA3NDQ2LC00NDMwMDcw
-NDAsMTgyMzQ0Njg0MSwtODc1OTY2Njg5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTU2NTUxNDAzMCwyMDQ2MDMwNjAyLC0zMT
+EwODQxMjQsLTEzMjY2MjgwODgsLTMxMTA4NDEyNCw3NjI1MDc0
+NDYsLTQ0MzAwNzA0MCwxODIzNDQ2ODQxLC04NzU5NjY2ODksNz
+MwOTk4MTE2XX0=
 -->
