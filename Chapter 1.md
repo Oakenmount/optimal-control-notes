@@ -31,9 +31,14 @@ Dynamic system may be divided into subprocesses.
 *Detectable* - If an unobserved subprocess is stable, the otherwise observable process is *detectable*. (Bounds on observed states can be estimated).
 
 *Superposition characteristic* - The net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually. E.g, if input _A_ produces response _X_ and input _B_ produces response _Y_ then input (_A_ + _B_) produces response (_X_ + _Y_)
+
+$E=MC^2_{ayy} \int_{bruv}2x+5$
+
+- [x] Incomplete item
+- [x] Complete item
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTA4NDEyNCwtNTY1NTE0MDMwLDIwND
-YwMzA2MDIsLTMxMTA4NDEyNCwtMTMyNjYyODA4OCwtMzExMDg0
-MTI0LDc2MjUwNzQ0NiwtNDQzMDA3MDQwLDE4MjM0NDY4NDEsLT
-g3NTk2NjY4OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUyNDU4MTkzMiwtMzExMDg0MTI0LC01Nj
+U1MTQwMzAsMjA0NjAzMDYwMiwtMzExMDg0MTI0LC0xMzI2NjI4
+MDg4LC0zMTEwODQxMjQsNzYyNTA3NDQ2LC00NDMwMDcwNDAsMT
+gyMzQ0Njg0MSwtODc1OTY2Njg5LDczMDk5ODExNl19
 -->
